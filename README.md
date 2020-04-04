@@ -12,6 +12,15 @@
 
 - silme
 
+## Hosting işlemleri
+
+- Ana Dizinde .htaccess dosayı oluşturmanız gerekli
+    <IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^$ public/index.php [L]
+    RewriteRule ^((?!public/).*)$ public/$1 [L,NC]
+    </IfModule>
 
 ## Eğitim Sponsoru
 İstanbul İşletme Enstitüsü
