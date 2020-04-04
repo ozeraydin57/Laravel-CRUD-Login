@@ -6,5 +6,5 @@ yazı listeleme
 güncelleme
 silme
 
-# Eğitim Sponsoru
+## Eğitim Sponsoru
 İstanbul İşletme Enstitüsü
