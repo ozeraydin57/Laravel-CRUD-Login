@@ -1,18 +1,15 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="200"></p>
 
-(https://www.oa-laravel-sample-crud-login.ozeraydin.com/)
-
-## İçerik
+## Uygulama Özellikleri
 
 - Kullanıcı giriş ve kayıt işlemleri
-
 - Blog için yazı ekleme
-
 - yazı listeleme
-
 - güncelleme
-
 - silme
+
+## Çalışır Örnek
+https://www.oa-laravel-sample-crud-login.ozeraydin.com/
 
 ## Hosting işlemleri
 
