@@ -68,7 +68,7 @@
             @if (Route::has('login'))
                 <div class="top-right links">
                     @auth
-                        <a href="{{ url('/home') }}">Anasayfa</a>
+                        <a href="{{ url('/home') }}">Yönetim Ekranı</a>
                     @else
                         <a href="{{ route('login') }}">Giriş Yap</a>
 
