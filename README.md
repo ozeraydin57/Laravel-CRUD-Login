@@ -31,4 +31,4 @@ https://www.oa-laravel-sample-crud-login.ozeraydin.com/
 3. ```bootstrap/cache``` kalsorü hatası verirse cache kalsörünü silip tekrar oluşturun, ayrıca klasörün yazma izni olmalı  
 
 ## Eğitim Sponsoru
-İstanbul İşletme Enstitüsü
+İstanbul İşletme Enstitüsü ve Volkan Asildeveci Hocamıza teşekkürlerimizi sunuyorum
