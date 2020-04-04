@@ -14,7 +14,7 @@
 
 ## Hosting işlemleri
 
-- Ana Dizinde .htaccess dosayı oluşturmanız gerekli
+1. Ana Dizinde ```.htaccess``` dosyası oluşturmanız gerekli
 ```
     <IfModule mod_rewrite.c>
     
@@ -28,6 +28,8 @@
     
     </IfModule>
    ``` 
+2. ```.env``` dosyasındaki veri tabanı kullanıcı adı şifre bilgileri doldurulmalı
+3. ```bootstrap/cache``` kalsorü hatası verirse cache kalsörünü silip tekrar oluşturun, ayrıca klasörün yazma izni olmalı  
 
 ## Eğitim Sponsoru
 İstanbul İşletme Enstitüsü
