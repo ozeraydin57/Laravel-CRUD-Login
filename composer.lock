@@ -454,7 +454,7 @@
                 "symfony/http-kernel": "^3.3|^4.0|^5.0"
             },
             "require-dev": {
-                "laravel/framework": "^5.5|^6.0|^7.0|^8.0",
+                "laravel/framework": "7.30.3",
                 "orchestra/testbench": "^3.5|^4.0|^5.0|^6.0",
                 "phpro/grumphp": "^0.16|^0.17",
                 "phpunit/phpunit": "^6.0|^7.0|^8.0",
